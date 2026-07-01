@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "titulo": "Somos um Só",
+    "categoria": "Amor",
+    "descricao": "Um poema sobre almas destinadas a se encontrarem."
+  },
+  {
+    "id": 2,
+    "titulo": "Te Adoro em Tudo",
+    "categoria": "Amor",
+    "descricao": "O amor visto como uma entrega sem limites."
+  },
+  {
+    "id": 3,
+    "titulo": "Imersão da Paixão",
+    "categoria": "Amor",
+    "descricao": "A intensidade da paixão transformada em versos."
+  },
+  {
+    "id": 4,
+    "titulo": "O Prisma de Nosso Amor",
+    "categoria": "Amor",
+    "descricao": "A beleza e a fragilidade de um destino compartilhado."
+  },
+  {
+    "id": 5,
+    "titulo": "Cânticos – Parte II",
+    "categoria": "Amor",
+    "descricao": "Uma voz que se transforma em poesia."
+  },
+  {
+    "id": 6,
+    "titulo": "Julia",
+    "categoria": "Amor",
+    "descricao": "Versos dedicados a uma presença marcante."
+  },
+  {
+    "id": 7,
+    "titulo": "Quando um Sorriso Tornou-se Lágrimas",
+    "categoria": "Dor",
+    "descricao": "Quando a tristeza deixa de ser apenas um sentimento."
+  },
+  {
+    "id": 8,
+    "titulo": "Por Céus e Mares Eu Andei",
+    "categoria": "Reflexões",
+    "descricao": "A caminhada de um poeta entre máscaras e verdades."
+  },
+  {
+    "id": 9,
+    "titulo": "Pois Eu Amei um Anjo",
+    "categoria": "Espiritualidade",
+    "descricao": "O amor elevado ao sagrado."
+  },
+  {
+    "id": 10,
+    "titulo": "Matéria Obscura",
+    "categoria": "Desejo",
+    "descricao": "A química do desejo transformada em poesia."
+  }
+]
